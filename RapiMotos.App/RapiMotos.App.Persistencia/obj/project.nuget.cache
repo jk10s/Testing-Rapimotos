@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H68neo3OkqyVQDUmOPPXvAc2WfooEE4Wp8Ru9KJ4tBm9U9AerWdcWWsRBELH13n+v9KdpmbVesnYoP0WmkwADA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Persistencia\\RapiMotos.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsdc1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jsdc1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

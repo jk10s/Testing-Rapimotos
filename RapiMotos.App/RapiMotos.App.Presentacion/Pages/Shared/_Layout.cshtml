@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RapiMotos.App.Presentacion</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="General">
+    <div class="container">
+        <main role="main" class="pb-3">
+         <header>
+             <h3> SERVICIO DE MANTENIMIENTO DE MOTOS A DOMICILIO </h3>
+             <h3> RapiMotos </h3>
+             <h4> Bienvenidos al sistema de información</h4>
+        </header>
+                <div class="contenido">
+                    <p class="Titulo1">Ingrese el tipo de usuario</p>
+                    <a class="navbar-brand" asp-area="" asp-page="/router/Administrador">
+                       <button class="boton">Administrador</button>
+                    </a>
+                    <a class="navbar-brand" asp-area="" asp-page="#">
+                        <button class="boton">Cliente</button>
+                    </a>
+                    <a class="navbar-brand" asp-area="" asp-page="#">
+                        <button class="boton">Tecnico</button>
+                    </a>
+                </div>
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - RapiMotos.App.Presentacion - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
