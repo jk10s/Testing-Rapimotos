@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Presentacion\\RapiMotos.App.Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Presentacion\\RapiMotos.App.Presentacion.csproj",
       "projectName": "RapiMotos.App.Presentacion",
-      "projectPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Presentacion\\RapiMotos.App.Presentacion.csproj",
+      "projectPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Presentacion\\RapiMotos.App.Presentacion.csproj",
       "packagesPath": "C:\\Users\\jsdc1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jsdc1\\AppData\\Roaming\\NuGet\\NuGet.Config"
