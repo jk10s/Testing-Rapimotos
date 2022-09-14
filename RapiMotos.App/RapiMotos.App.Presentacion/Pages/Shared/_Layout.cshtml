@@ -4,33 +4,154 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - RapiMotos.App.Presentacion</title>
+    <link rel="icon" href="~/Imagenes/repartidor.ico" type="image/x-icon">
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="~/css/site.css" />
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
 <body>
     <div class="General">
+    <header>
+       <p>Bienvenidos a RapiMotos (Contactenos 3168567053)</p> <img src="@Url.Content("~/Imagenes/gif.gif")">
+    </header>
+    <div class="banner">
+       <p>MANTENIMIENTO DE MOTOS</p>
+       <p>(Servicio a domicilio)</p>
+    </div>
+    <nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Calidad certificada</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#uno">Administrador</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#dos">Tecnico</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#tres">Cliente</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="@Url.Content("~/Imagenes/mantenimiento.jpg")" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="@Url.Content("~/Imagenes/mecanicos.webp")" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="@Url.Content("~/Imagenes/motos.jpg")" class="d-block w-100" alt="...">
+    </div>
+     <div class="carousel-item">
+      <img src="@Url.Content("~/Imagenes/motoss.jpg")" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
     <div class="container">
-        <main role="main" class="pb-3">
-         <header>
-             <h3> SERVICIO DE MANTENIMIENTO DE MOTOS A DOMICILIO </h3>
-             <h3> RapiMotos </h3>
-             <h4> Bienvenidos al sistema de información</h4>
-        </header>
-                <div class="contenido">
-                    <p class="Titulo1">Ingrese el tipo de usuario</p>
-                    <a class="navbar-brand" asp-area="" asp-page="/router/Administrador">
-                       <button class="boton">Administrador</button>
-                    </a>
-                    <a class="navbar-brand" asp-area="" asp-page="#">
-                        <button class="boton">Cliente</button>
-                    </a>
-                    <a class="navbar-brand" asp-area="" asp-page="#">
-                        <button class="boton">Tecnico</button>
-                    </a>
-                </div>
+        <main role="main" class="pb-3">    
             @RenderBody()
         </main>
     </div>
+<br><br>
+<section id="uno">
+<p class="titulo">Administrador</p>
+ <form>
+        <div class="form1">
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Nombre">
+                <br/>
+                <input type="text" class="form-control" placeholder="Correo Electronico">
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Apellido">
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Telefono">
+            </div>
+        </div>
+        <br/>
+        <button type="button" class="btn btn-success btn1">Registrar Informacion</button>
+    </form>
+</section>
+<section id="dos">
+<p class="titulo">Tecnico</p>
+<form>
+        <div class="form1">
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Nombre">
+                <br/>
+                <input type="text" class="form-control" placeholder="Registro">
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Apellido">
+                <br/>
+                <div class="in1">
+                    <p>Disponibilidad</p>
+                    <input type="date" class="form-control" placeholder="Disponibilidad">
+                </div>          
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Telefono">
+            </div>
+        </div>
+        <br/>
+          <div class="botones">
+         <button type="button" class="btn btn-success btn1">Ver Historial</button> 
+               <button type="button" class="btn btn-success btn1">Registrar Informacion</button> 
+            </div>
+    </form>
+</section>
+<section id="tres">
+<p class="titulo">Cliente</p>
+ <form>
+        <div class="form1">
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Nombre">
+                <br/>
+                <input type="text" class="form-control" placeholder="Direccion">
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Apellido">
+                <br/>
+                <input type="text" class="form-control" placeholder="Latitud">
+            </div>
+            <div class="bloque1">
+                <input type="text" class="form-control" placeholder="Telefono">
+                <br/>
+                <input type="text" class="form-control" placeholder="Longitud">
+            </div>
+        </div>
+        <br/>
+        <div class="botones">
+         <button type="button" class="btn btn-success btn1">Ver Historial</button> 
+          <button type="button" class="btn btn-success btn1">Solicitar servicio</button> 
+               <button type="button" class="btn btn-success btn1">Registrar Informacion</button> 
+            </div>
+        
+    </form>
+</section>
 
     <footer class="border-top footer text-muted">
         <div class="container">
