@@ -118,7 +118,7 @@
         </div>
         <br/>
           <div class="botones">
-         <button type="button" class="btn btn-success btn1">Ver Historial</button> 
+         <button type="button" class="btn btn-success btn1" data-bs-toggle="modal" data-bs-target="#exampleModal1">Ver Historial</button> 
                <button type="button" class="btn btn-success btn1">Registrar Informacion</button> 
             </div>
     </form>
@@ -146,13 +146,91 @@
         <br/>
         <div class="botones">
          <button type="button" class="btn btn-success btn1">Ver Historial</button> 
-          <button type="button" class="btn btn-success btn1">Solicitar servicio</button> 
-               <button type="button" class="btn btn-success btn1">Registrar Informacion</button> 
-            </div>
+         <button type="button" class="btn btn-success btn1" data-bs-toggle="modal" data-bs-target="#exampleModal">Solicitar servicio</button> 
+         <button type="button" class="btn btn-success btn1">Registrar Informacion</button> 
+        </div>
         
     </form>
 </section>
-
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Solicitar servicio</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form>
+        <div class="form1">
+            <div class="bloque1">
+                <div class="in1">
+                    <p>Fecha</p>
+                    <input type="date" class="form-control" placeholder="Disponibilidad">
+                </div> 
+                <br/>
+                
+                 <input type="text" class="form-control" placeholder="valor">
+            </div>
+            <div class="bloque1">
+               <input type="text" class="form-control" placeholder="Hora"> 
+               <br/>
+                <select class="form-select" aria-label="Default select example">
+  <option selected>Seleccionar tecnico</option>
+  <option value="1">Registro 1</option>
+  <option value="2">Registro 2</option>
+  <option value="3">Registro 2</option>
+</select>        
+            </div>
+            <div class="bloque1">
+               <select class="form-select" aria-label="Default select example">
+  <option selected>Seleccionar Tipo de Servicio</option>
+  <option value="1">Mantenimiento - $</option>
+  <option value="2">Instalacion - $</option>
+  <option value="3">Adecuacion - $</option>
+</select>
+              
+            </div>
+        </div>
+        <br/>
+        <div class="botones">
+         <button type="button" class="btn btn-success btn1">Enviar</button> 
+        </div>
+        
+    </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Historial Tecnico</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Descripcion</th>
+      <th scope="col">Fecha</th>
+      <th scope="col">Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>Otto</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2022 - RapiMotos.App.Presentacion - <a asp-area="" asp-page="/Privacy">Privacy</a>
