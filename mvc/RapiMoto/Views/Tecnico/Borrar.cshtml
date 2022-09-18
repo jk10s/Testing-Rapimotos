@@ -1,0 +1,51 @@
+@model RapiMoto.Models.Tecnico
+@{
+    ViewData["Title"] = "Borrar Tecnico";
+}
+
+<h1 class="text-center">Administracion de Tecnico</h1>
+<div class="row">
+  <div class="col-12">
+
+    <div class="card border">
+
+      <div class="card-header">
+        <h3><strong>Borrar Tecnico</strong></h3>
+      </div>
+
+      <div class="card-body">
+
+       <form asp-action="Borrar">
+        <!--ID del usuario como campo oculto-->
+         <input type="hidden" form="Id" />
+
+         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+         <div class="form-group">
+           <label asp-for="Nombre" class="control-label"></label>
+           <input asp-for="Nombre" class="form-control" readonly/>
+           <span asp-validation-for="Nombre" class="text-danger"></span>
+         </div>
+          <div class="form-group">
+            <label asp-for="Apellidos" class="control-label"></label>
+            <input asp-for="Apellidos" class="form-control" readonly/>
+            <span asp-validation-for="Apellidos" class="text-danger"></span>
+          </div>
+          <div class="form-group">
+            <label asp-for="NumeroTelefono" class="control-label"></label>
+            <input asp-for="NumeroTelefono" class="form-control" readonly/>
+            <span asp-validation-for="NumeroTelefono" class="text-danger"></span>
+          </div>
+          <div class="form-group">
+            <label asp-for="Registro" class="control-label"></label>
+            <input asp-for="Registro" class="form-control" readonly/>
+            <span asp-validation-for="Registro" class="text-danger"></span>
+          </div>
+          <div class="form-group mt-3">
+            <button type="submit" class="btn btn-danger"><i class="bi bi-eraser-fil"></i> Borrar Tecnico</button>
+         </div>
+       </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+@model RapiMoto.Models.Tecnico
+@{
+    ViewData["Title"] = "Detalle";
+}
+
+<h1 class="text-center">Administracion de Tecnico</h1>
+
+<div class="row">
+  <div class="col-12">
+    <div class="card border">
+      <div class="card-header">
+        <h3><strong>Detalle de Tecnico</strong></h3>
+      </div>
+      <div class="card-body">
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m => m.Nombre)</li>
+            <li class="list-group-item"><strong>Apellidos: </strong>@Html.DisplayFor(m => m.Apellidos)</li>
+            <li class="list-group-item"><strong>NumeroTelefono: </strong>@Html.DisplayFor(m => m.NumeroTelefono)</li>
+            <li class="list-group-item"><strong>Registro: </strong>@Html.DisplayFor(m => m.Registro)</li>         
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,12 @@
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\net6.0\RapiMotos.App.Dominio.deps.json
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\net6.0\RapiMotos.App.Dominio.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\net6.0\RapiMotos.App.Dominio.pdb
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.AssemblyInfo.cs
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\refint\RapiMotos.App.Dominio.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\RapiMotos.App.Dominio.pdb
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\net6.0\ref\RapiMotos.App.Dominio.dll

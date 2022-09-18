@@ -1,0 +1,76 @@
+Paso a paso de la creacioin de un proyecto en projecto c# con mvc
+
+dotnet new mvc -o RapiMoto
+en json escibimos 
+  "ConnectionStrings": {
+    "ConnectionSqlServer": "Server=(localdb)\\mssqllocaldb;Database=AppContactoBD;Trusted_Connection=True;MultipleActiveResultSets=true"},
+creamos los modelos
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+crear el carpeta Data y nuevo archivo AppDBContext
+AppDBContext
+"public class AppDBContext  : DbContext
+    {
+        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
+        {
+        }
+        public DbSet<Contacto>? Contacto {get; set; }
+        
+    }"
+
+Modificamos el archivo Program.cs así:
+
+using Microsoft.EntityFrameworkCore;
+using RapiMoto.Data;
+
+// Configuramos la cadena de conexion
+builder.Services.AddDbContext<AppDBContext>(optiones => 
+    optiones.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionSqlServer"))
+);
+
+crear migraciones 
+dotnet ef migrations add Inicial
+
+crear la base de datos
+dotnet ef database update
+
+
+
+querys data TIPOSERVICIO *********************
+use AppContactoBD;
+GO
+INSERT INTO TipoServicio VALUES ('Mantenimiento', 100000 ); 
+GO
+INSERT INTO TipoServicio VALUES ('Instalación', 120000 ); 
+GO
+INSERT INTO TipoServicio VALUES ('Adecuación', 80000 ); 
+GO
+
+select 
+SELECT [Id]
+      ,[Servicio]
+      ,[precio]
+  FROM [dbo].[TipoServicio]
+
+GO
+
+TECNICO**********************************
+
+INSERT INTO Tecnico VALUES ('pedro', 'gonzales','314572349', 83343,'lunes' ); 
+GO
+INSERT INTO Tecnico VALUES ('luis', 'sandoval','3203345349', 123433,'martes' ); 
+GO
+INSERT INTO Tecnico VALUES ('javier', 'gomez','31345349', 73845,'viernes' ); 
+GO
+******
+
+ADMINISTRADOR****************************+
+INSERT INTO Administrador VALUES ('pedro', 'gonzales','314572349', 'pedri@gmail.com' ); 
+GO
+
+SERVICIO**********************************
+INSERT INTO Servicio VALUES ('30-12-2011', 2, 2); 
+GO

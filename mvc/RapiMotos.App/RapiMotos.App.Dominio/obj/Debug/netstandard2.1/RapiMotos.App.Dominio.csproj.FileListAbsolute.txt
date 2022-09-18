@@ -1,0 +1,5 @@
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.1\RapiMotos.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.1\RapiMotos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.1\RapiMotos.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.1\RapiMotos.App.Dominio.AssemblyInfo.cs
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.1\RapiMotos.App.Dominio.csproj.CoreCompileInputs.cache

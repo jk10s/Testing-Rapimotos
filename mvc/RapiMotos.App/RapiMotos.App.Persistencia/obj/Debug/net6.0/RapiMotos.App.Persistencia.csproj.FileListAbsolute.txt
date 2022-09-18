@@ -1,0 +1,17 @@
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Persistencia.deps.json
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Persistencia.runtimeconfig.json
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Persistencia.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Persistencia.pdb
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Dominio.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\net6.0\RapiMotos.App.Dominio.pdb
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.AssemblyInfo.cs
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.csproj.CopyComplete
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\refint\RapiMotos.App.Persistencia.dll
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.pdb
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\RapiMotos.App.Persistencia.genruntimeconfig.cache
+C:\Users\jk10s\Desktop\progrmacion\mvc\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\net6.0\ref\RapiMotos.App.Persistencia.dll
