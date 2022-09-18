@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Dominio\\RapiMotos.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Dominio\\RapiMotos.App.Dominio.csproj",
       "projectName": "RapiMotos.App.Dominio",
-      "projectPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Dominio\\RapiMotos.App.Dominio.csproj",
+      "projectPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Dominio\\RapiMotos.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\jsdc1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\Proyectos C#\\RapiMoto\\RapiMotos.App\\RapiMotos.App.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\jsdc1\\OneDrive\\Documentos\\GitHub\\Testing2-RapiMotos\\Testing-Rapimotos\\RapiMotos.App\\RapiMotos.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jsdc1\\AppData\\Roaming\\NuGet\\NuGet.Config"

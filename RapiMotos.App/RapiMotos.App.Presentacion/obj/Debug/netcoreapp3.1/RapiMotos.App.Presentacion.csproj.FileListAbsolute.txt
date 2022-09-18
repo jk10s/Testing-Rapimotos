@@ -1,38 +1,37 @@
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.exe
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.deps.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.runtimeconfig.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.runtimeconfig.dev.json
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.dll
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.pdb
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.dll
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.pdb
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csprojAssemblyReference.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.AssemblyInfoInputs.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.AssemblyInfo.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorAssemblyInfo.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorAssemblyInfo.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.TagHelpers.input.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.TagHelpers.output.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorCoreGenerate.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorTargetAssemblyInfo.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorTargetAssemblyInfo.cs
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.pdb
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\RapiMotos.App.Presentacion.StaticWebAssets.Manifest.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\RapiMotos.App.Presentacion.StaticWebAssets.xml
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.dll
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.pdb
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.genruntimeconfig.cache
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csproj.CopyComplete
-C:\Users\jsdc1\OneDrive\Documentos\Proyectos C#\RapiMoto\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\router\Administrador.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.exe
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.deps.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.runtimeconfig.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.runtimeconfig.dev.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\bin\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csprojAssemblyReference.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.AssemblyInfoInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.AssemblyInfo.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorAssemblyInfo.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorAssemblyInfo.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.TagHelpers.input.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.TagHelpers.output.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorCoreGenerate.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.Views.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\RapiMotos.App.Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\RapiMotos.App.Presentacion.StaticWebAssets.xml
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.genruntimeconfig.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Presentacion\obj\Debug\netcoreapp3.1\RapiMotos.App.Presentacion.csproj.CopyComplete

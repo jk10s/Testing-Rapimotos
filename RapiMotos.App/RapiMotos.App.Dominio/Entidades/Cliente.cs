@@ -1,12 +1,19 @@
-using system;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace RapiMotos.App.Dominio{
-    public class Cliente{
-       public int cliente_id {get; set;}
-       public string cliente_nombreCompleto {get; set;}
-       public string cliente_telefono {get; set;}
-       public string cliente_direccion {get; set;}
-       public string cliente_correo {get; set;}
-       public string cliente_cedula {get; set;}
+namespace RapiMotos.App.Dominio
+{
+    public class Cliente: Persona
+    {
+        public string Direccion { get; set; }
+        /// Coordenada de la dirección del cliente                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+        public float Latitud { get; set; }
+        /// Coordenada de la dirección del cliente
+        public float Longitud { get; set; }
+        public Servicio Servicio { get; set; }
+        /// Relacion entre cliente y su Historia del cliente
+        public HistorialCliente HistorialCliente { get; set; }  
     }
 }

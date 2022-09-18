@@ -1,0 +1,12 @@
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\netstandard2.1\RapiMotos.App.Persistencia.deps.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\netstandard2.1\RapiMotos.App.Persistencia.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\netstandard2.1\RapiMotos.App.Persistencia.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\netstandard2.1\RapiMotos.App.Dominio.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\bin\Debug\netstandard2.1\RapiMotos.App.Dominio.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.AssemblyInfo.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.csproj.CopyComplete
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Persistencia\obj\Debug\netstandard2.1\RapiMotos.App.Persistencia.pdb

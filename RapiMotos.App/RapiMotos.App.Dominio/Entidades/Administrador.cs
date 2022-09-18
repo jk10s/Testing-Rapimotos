@@ -1,10 +1,12 @@
-using system;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace RapiMotos.App.Dominio{
-    public class Administrador{
-        public int cedula {get; set;}
-        public string admin_nombreCompleto {get; set;}
-        public string admin_telefono {get; set;}
-        public string admin_correo {get; set;}
+namespace RapiMotos.App.Dominio
+{
+    public class Administrador:Persona
+    {
+        public string correo {get; set;}     
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\netstandard2.0\RapiMotos.App.Dominio.deps.json
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\netstandard2.0\RapiMotos.App.Dominio.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\bin\Debug\netstandard2.0\RapiMotos.App.Dominio.pdb
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.csprojAssemblyReference.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.AssemblyInfo.cs
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.dll
+C:\Users\jsdc1\OneDrive\Documentos\GitHub\Testing2-RapiMotos\Testing-Rapimotos\RapiMotos.App\RapiMotos.App.Dominio\obj\Debug\netstandard2.0\RapiMotos.App.Dominio.pdb
